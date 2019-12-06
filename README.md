@@ -16,7 +16,7 @@ $paths = Get-Content C:\temp\paths.csv
 Now time to execute the script you could directly run this or use any monitoring solution to run this powershell script.
 you could download this from the same Git branch, where I have uploaded with the name script
 
-Note: - As powershell uses .ps1 extension so make sure when we save this script we must use .ps1 in the end of the name (like script.sp1)
+Note: - As powershell uses .ps1 extension so make sure when we save this script we must use .ps1 in the end of the name (like script.ps1)
 
 Feel free to reach me for any question, 
 gouravin@outlook.com
