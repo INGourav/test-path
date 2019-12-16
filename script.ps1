@@ -1,5 +1,5 @@
 <# Author:- Gourav Kumar
-Version 1.3
+Version 1.1
 #>
 $i = 0
 $paths = "C:\temp", "C:\temp2"
